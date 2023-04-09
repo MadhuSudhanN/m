@@ -1,3 +1,4 @@
+//airplane simulation.
 #include<windows.h>
 #include<stdlib.h>
 #include<gl/glut.h>
